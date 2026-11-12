@@ -40,7 +40,7 @@ Build Profit and Loss (P&L) statements that give a clear view of financial perfo
 
 - **Project objective:** 
 
-    **1.**Profit and Loss (P&L) reports by _[Fiscal Year]https://github.com/prachikarsrung/excel-course/blob/main/P%26L%20Statement%20by%20Fiscal%20Year.pdf_ & _[Months]https://github.com/prachikarsrung/excel-course/blob/main/P%26L%20Statement%20by%20Months.pdf
+    **1.**Profit and Loss (P&L) reports by _[Fiscal Year](https://github.com/prachikarsrung/excel-course/blob/main/P%26L%20Statement%20by%20Fiscal%20Year.pdf_ & _[Months]https://github.com/prachikarsrung/excel-course/blob/main/P%26L%20Statement%20by%20Months.pdf)
   
    **2.** Profit and Loss (P&L) reports by _[Markets]https://github.com/prachikarsrung/excel-course/blob/main/P%26L%20Statement%20by%20Markets.pdf
 
